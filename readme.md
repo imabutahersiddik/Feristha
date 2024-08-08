@@ -1,53 +1,51 @@
-# ফেরিশতা
+# Feristha
 
-ফেরিশতা গবেষণা রেপোজিটরি তে স্বাগতম! এই রেপোজিটরি ইসলামী তত্ত্বে ফেরিশতা সম্পর্কিত গবেষণার জন্য নিবেদিত। এটি কুরআন এবং হাদিস থেকে উদ্ভূত তাদের ভূমিকা, নাম এবং গুরুত্ব সম্পর্কে তথ্য সংগ্রহের উদ্দেশ্যে।
+Welcome to the Feristha research repository! This repository is dedicated to the scholarly exploration of Feristha in Islamic theology. It aims to compile information regarding their roles, names, and significance as derived from the Quran and Hadith.
 
-## বিষয়সূচী
-- [ভূমিকা](#ভূমিকা)
-- [গবেষণার উদ্দেশ্য](#গবেষণার-উদ্দেশ্য)
-- [ইসলামী ঐতিহ্যে ফেরিশতা](#ইসলামী-ঐতিহ্যে-ফেরিশতা)
-- [বিখ্যাত ফেরিশতার তালিকা](#বিখ্যাত-ফেরিশতার-তালিকা)
-- [তথ্যসূত্র](#তথ্যসূত্র)
-- [অংশগ্রহণ](#অংশগ্রহণ)
-- [লাইসেন্স](#লাইসেন্স)
+## Table of Contents
+- [Introduction](#introduction)
+- [Research Objectives](#research-objectives)
+- [Feristha in Islamic Tradition](#feristha-in-islamic-tradition)
+- [List of Notable Feristha](#list-of-notable-feristha)
+- [References](#references)
+- [Contributing](#contributing)
+- [License](#license)
 
-## ভূমিকা
-ইসলামী বিশ্বাসে, ফেরিশতা হল আল্লাহ কর্তৃক আলো থেকে সৃষ্ট আধ্যাত্মিক সত্তা। তারা মহাবিশ্বে গুরুত্বপূর্ণ ভূমিকা পালন করে, আল্লাহ এবং ইনসানের মধ্যে মধ্যস্থতা করে। এই গবেষণার লক্ষ্য হল এই সত্তাগুলোর বৈশিষ্ট্য, কার্যাবলী এবং তাত্ত্বিক প্রভাবগুলি বিশ্লেষণ করা।
+## Introduction
+In Islamic belief, Feristha are spiritual beings created by Allah from light. They hold significant roles in the cosmos, acting as intermediaries between Allah and Insaanity. This research aims to delve into the characteristics, functions, and theological implications of these beings.
 
-## গবেষণার উদ্দেশ্য
-- কুরআন এবং হাদিসে উল্লেখিত ফেরিশতার নাম চিহ্নিত করা এবং তালিকাভুক্ত করা।
-- ইসলামী চিন্তায় ফেরিশতার ভূমিকা এবং দায়িত্বগুলি অন্বেষণ করা।
-- ইসলামী তত্ত্বের প্রেক্ষাপটে ফেরিশতার গুরুত্ব বিশ্লেষণ করা।
+## Research Objectives
+- To identify and list the names of Feristha mentioned in the Quran and Hadith.
+- To explore the roles and responsibilities of Feristha in Islamic thought.
+- To analyze the significance of Feristha in the context of Islamic theology.
 
-## ইসলামী ঐতিহ্যে ফেরিশতা
-ফেরিশতাকে আল্লাহর আনুগত্যশীল হিসেবে দেখা হয় যারা বিভিন্ন কাজ সম্পন্ন করে, যেমন বার্তা প্রেরণ এবং ইনসানের কাজগুলি রেকর্ড করা। তারা ইসলামের বিশ্বাসের একটি অপরিহার্য উপাদান।
+## Feristha in Islamic Tradition
+Feristha are regarded as obedient servants of Allah who fulfill various tasks, such as delivering messages and recording Insaan deeds. They are an essential component of faith in Islam.
 
-## বিখ্যাত ফেরিশতার তালিকা
-1. **জিবরাইল**: আর্ক-ফেরিশতা, যিনি নবী ও রাসুলদের কাছে প্রকাশনা প্রদান করেন।
-2. **মীকাইল**: ফেরিশতা, যিনি জীবনের উপাদান সরবরাহ এবং প্রাকৃতিক ঘটনাগুলি তত্ত্বাবধান করেন।
-3. **ইসরাফিল**: ফেরিশতা, যিনি কিয়ামতের দিন শিঙা বাজাবেন।
-4. **মালিক**: ফেরিশতা, যিনি জাহান্নামের তত্ত্বাবধায়ক।
-5. **রাকিব এবং আতিদ**: ফেরিশতা, যারা ইনসানের কাজগুলি রেকর্ড করেন।
+## List of Notable Feristha
+1. **Jibril**: The archangel responsible for delivering revelations to Nobi.
+2. **Mikail**: The Feristha tasked with providing sustenance and overseeing natural phenomena.
+3. **Israfil**: The Feristha who will blow the trumpet on the Day of Resurrection.
+4. **Malik**: The Feristha in charge of Hell.
+5. **Raqib and Atid**: The Feristha who record Insaan deeds.
 
-সকল ফেরেশতার উপর শান্তি বর্ষিত হোক।
+## References
+- [Quran](https://quran.com)
+- [Hadith Collections](https://sunnah.com)
 
-## তথ্যসূত্র
-- [কুরআন](https://quran.com)
-- [হাদিস সংগ্রহ](https://sunnah.com)
+## Contributing
+Contributions to enhance this research are welcome! If you would like to contribute, please follow these steps:
 
-## অংশগ্রহণ
-এই গবেষণাকে উন্নত করার জন্য অবদান স্বাগত! আপনি যদি অবদান রাখতে চান, দয়া করে নিম্নলিখিত পদক্ষেপগুলি অনুসরণ করুন:
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
+3. Commit your Changes (`git commit -m 'Add some research findings'`)
+4. Push to the Branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
 
-1. প্রকল্পটি ফর্ক করুন
-2. আপনার ফিচার ব্রাঞ্চ তৈরি করুন (`git checkout -b feature/YourFeature`)
-3. আপনার পরিবর্তনগুলি কমিট করুন (`git commit -m 'কিছু গবেষণার ফলাফল যোগ করুন'`)
-4. ব্রাঞ্চে পুশ করুন (`git push origin feature/YourFeature`)
-5. একটি পুল রিকুয়েস্ট খুলুন
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
 
-## লাইসেন্স
-MIT লাইসেন্সের অধীনে বিতরণ করা হয়েছে। আরও তথ্যের জন্য `LICENSE` দেখুন।
+## Contact
+Your Name - [abutahersiddik313@gmail.com](mailto:abutahersiddik313@gmail.com)
 
-## যোগাযোগ
-আবু তাহের সিদ্দিক - [abutahersiddik313@gmail.com](mailto:abutahersiddik313@gmail.com)
-
-প্রকল্প লিঙ্ক: [https://github.com/imabutahersiddik/Feristha](https://github.com/imabutahersiddik/Feristha)
+Project Link: [https://github.com/imabutahersiddik/Feristha](https://github.com/imabutahersiddik/Feristha)
